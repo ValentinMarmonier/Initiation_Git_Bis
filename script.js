@@ -1,1 +1,1 @@
-console.log("Holà cabròn")
+console.log("Holà cabròn");
