@@ -1,7 +1,10 @@
 h2{
-	color:darkred;
+	color:yellow;
 }
 h3{
 	font-size:2.8em;
 	color:darkgreen;
+}
+img{
+	max-width: 30em;
 }
